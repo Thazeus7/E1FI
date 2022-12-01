@@ -18,6 +18,6 @@ public class kreis {
     double Flaeche = pi * hoch2;
     double durchmesser = radius * 2;
         System.out.println("der durchmesser vom kreis beträgt " + durchmesser);
-    System.out.println("die fläche vom kreis ist " + Flaeche);
+    System.out.print("die fläche vom kreis ist " + Flaeche);
     }
     }

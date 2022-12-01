@@ -1,3 +1,5 @@
+package exercises01;
+
 public class Datentypen {
 
     public static void main(String[] args) {
